@@ -60,8 +60,8 @@ strategy, delivery, and governance end to end.
   **BSc, Chemistry**, University of Colombo.
 - 25+ peer-reviewed publications in computational chemistry and applied
   high-performance computing.
-- AWS Certified Solutions Architect – Associate · Microsoft Copilot for
-  Productivity.
+- Red Hat Certified Engineer (RHCE) · AWS Certified Solutions Architect –
+  Associate · Microsoft Copilot for Productivity.
 
 ## Toolbox
 
