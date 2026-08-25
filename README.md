@@ -62,8 +62,8 @@ strategy, delivery, and governance end to end.
   high-performance computing.
 - Red Hat Certified Engineer (RHCE) · AWS Certified Solutions Architect –
   Associate · Microsoft Copilot for Productivity · *Principles of
-  Responsible AI: Identifying, Understanding, and Mitigating Risks* (All Tech
-  Is Human) · IAPP AI Governance Professional (AIGP) — in progress.
+  Responsible AI: Identifying, Understanding, and Mitigating Risks* ·
+  IAPP AI Governance Professional (AIGP) — in progress.
 
 ## Toolbox
 
