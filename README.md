@@ -44,6 +44,10 @@ strategy, delivery, and governance end to end.
 
 ## Background
 
+- Red Hat Certified Engineer (RHCE) · AWS Certified Solutions Architect –
+  Associate · Microsoft Copilot for Productivity · *Principles of
+  Responsible AI: Identifying, Understanding, and Mitigating Risks* ·
+  IAPP AI Governance Professional (AIGP) — in progress.
 - **Research Scientist & HPC System Administrator**, University of Alabama
   (2011–2017) — ran the department's HPC cluster and chemical-inventory
   LIMS; research in heterogeneous catalysis, carbon sequestration, and
@@ -55,10 +59,6 @@ strategy, delivery, and governance end to end.
   **BSc, Chemistry**, University of Colombo.
 - 25+ peer-reviewed publications in computational chemistry and applied
   high-performance computing.
-- Red Hat Certified Engineer (RHCE) · AWS Certified Solutions Architect –
-  Associate · Microsoft Copilot for Productivity · *Principles of
-  Responsible AI: Identifying, Understanding, and Mitigating Risks* ·
-  IAPP AI Governance Professional (AIGP) — in progress.
 
 ## Toolbox
 
