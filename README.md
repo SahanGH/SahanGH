@@ -1,7 +1,7 @@
 # Sahan Thanthiriwatte
 
 Laboratory Informatics Maverick at **The Coca-Cola Company**.
-Ph.D. computational chemist who thinks like a scientist and builds like an
+A chemist who thinks like a scientist and builds like an
 engineer: I architect, deliver, and govern LIMS platforms for QA/QC and R&D
 laboratories worldwide — and I still write the code that gets instrument
 results into them.
