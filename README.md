@@ -1,10 +1,14 @@
 # Sahan Thanthiriwatte
 
 Laboratory Informatics Maverick at **The Coca-Cola Company**.
-A chemist who thinks like a scientist and builds like an
-engineer: I architect, deliver, and govern LIMS platforms for QA/QC and R&D
-laboratories worldwide — and I still write the code that gets instrument
-results into them.
+A chemist who thinks like a scientist and builds like an engineer.
+I design, deliver, and govern LIMS systems for QA/QC and R&D laboratories.
+I've architected and validated systems under GMP/GLP and ISO frameworks,
+integrated instruments and master data across Manufacturing and Quality
+Control, and driven digital laboratory transformation — modernizing
+workflows through automation, AI, and analytics rather than talking about
+them in the abstract. And I have hands-on, end-to-end experience of both
+the lab and the LIMS side of the process.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri_2-24C8D8?logo=tauri&logoColor=white)
