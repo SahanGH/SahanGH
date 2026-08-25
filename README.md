@@ -2,7 +2,7 @@
 
 Laboratory Informatics Maverick at **The Coca-Cola Company**.
 A chemist who thinks like a scientist and builds like an engineer.
-I design, deliver, and govern LIMS systems for QA/QC and R&D laboratories
+I design, deliver, and govern LIMS platforms for QA/QC and R&D laboratories
 worldwide.
 I've architected and validated systems under GMP/GLP and ISO frameworks,
 integrated instruments and master data across Manufacturing and Quality
@@ -18,6 +18,7 @@ the lab and the LIMS side of the process.
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811)
 ![AWS](https://img.shields.io/badge/AWS-232F3E)
+![Azure](https://img.shields.io/badge/Azure-0078D4)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 ---
@@ -66,14 +67,14 @@ strategy, delivery, and governance end to end.
 - 25+ peer-reviewed publications in computational chemistry and applied
   high-performance computing.
 - Red Hat Certified Engineer (RHCE) · AWS Certified Solutions Architect –
-  Associate · Microsoft Copilot for Productivity.
+  Associate · Microsoft Copilot for Productivity · AI Governance (certified).
 
 ## Toolbox
 
 **Building:** Rust · Tauri 2 · React · TypeScript · Tailwind · Vite
 **Data:** SQL Server · SQLite · SampleManager LIMS · Power BI
 **Scripting & docs:** PowerShell · Python · VBA · LaTeX
-**Platforms:** Windows · Linux · AWS
+**Platforms:** Windows · Linux · AWS · Azure
 
 ## Elsewhere
 
