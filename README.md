@@ -29,22 +29,16 @@ Since 2017 I've led the informatics backbone for Coca-Cola's global
 Technical, Innovation & Supply Chain QA/QC and R&D laboratories — LIMS
 strategy, delivery, and governance end to end.
 
+- **Digital lab transformation.** Modernising workflows through robotics,
+  AI-powered automation, and predictive quality systems. Most of my own
+  code is built with Claude Code in a spec → plan → test → review loop.
 - **LIMS solution architecture and validation.** Requirements, design,
   configuration, and cross-functional delivery under GMP/GLP and ISO
   frameworks; enterprise SME for master data governance, instrument
   integration, and audit readiness.
-- **Instrument-to-LIMS desktop apps.** Rust + Tauri, ~6 MB single `.exe`,
-  no server, no installer, no per-PC drivers. Each one reads sample context
-  from the LIMS (read-only), applies the method's calculation and QC rules
-  in tested code, shows the analyst every result against its specification,
-  and writes the results file the LIMS already knows how to ingest —
-  retiring Excel/VBA and InfoPath workflows with byte-for-byte output parity.
 - **Analytics.** Built and lead the LIMS Power BI reporting platform:
   automated visualisation and real-time insight for QA/QC and R&D
   decision-makers.
-- **Digital lab transformation.** Modernising workflows through robotics,
-  AI-powered automation, and predictive quality systems. Most of my own
-  code is built with Claude Code in a spec → plan → test → review loop.
 
 ## In the open
 
