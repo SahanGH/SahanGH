@@ -2,7 +2,8 @@
 
 Laboratory Informatics Maverick at **The Coca-Cola Company**.
 A chemist who thinks like a scientist and builds like an engineer.
-I design, deliver, and govern LIMS systems for QA/QC and R&D laboratories.
+I design, deliver, and govern LIMS systems for QA/QC and R&D laboratories
+worldwide.
 I've architected and validated systems under GMP/GLP and ISO frameworks,
 integrated instruments and master data across Manufacturing and Quality
 Control, and driven digital laboratory transformation — modernizing
