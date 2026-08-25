@@ -77,4 +77,4 @@ strategy, delivery, and governance end to end.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/sahanchem) · Buford, GA
+[LinkedIn](https://www.linkedin.com/in/sahanchem)
