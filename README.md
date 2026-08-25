@@ -67,7 +67,9 @@ strategy, delivery, and governance end to end.
 - 25+ peer-reviewed publications in computational chemistry and applied
   high-performance computing.
 - Red Hat Certified Engineer (RHCE) · AWS Certified Solutions Architect –
-  Associate · Microsoft Copilot for Productivity · AI Governance (certified).
+  Associate · Microsoft Copilot for Productivity · *Principles of
+  Responsible AI: Identifying, Understanding, and Mitigating Risks* (All Tech
+  Is Human) · IAPP AI Governance Professional (AIGP) — in progress.
 
 ## Toolbox
 
