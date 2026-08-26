@@ -26,8 +26,8 @@ Technical, Innovation & Supply Chain QA/QC and R&D laboratories — LIMS
 strategy, delivery, and governance end to end.
 
 - **Digital lab transformation.** Modernising workflows through robotics,
-  AI-powered automation, and predictive quality systems. Most of my own
-  code is built with agentic AI in a spec → plan → test → review loop.
+  AI-powered automation, and predictive quality systems. I build with
+  agentic AI in a spec → plan → test → review loop.
 - **LIMS solution architecture and validation.** Requirements, design,
   configuration, and cross-functional delivery under GMP/GLP and ISO
   frameworks; enterprise SME for master data governance, instrument
