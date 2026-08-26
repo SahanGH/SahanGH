@@ -21,9 +21,9 @@ both the laboratories and LIMS processes end-to-end.
 
 ## What I work on
 
-Since 2017 I've led the informatics backbone for Coca-Cola's global
-Technical, Innovation & Supply Chain QA/QC and R&D laboratories — LIMS
-strategy, delivery, and governance end to end.
+I lead the informatics backbone for Coca-Cola's global Technical,
+Innovation & Supply Chain QA/QC and R&D laboratories — LIMS strategy,
+delivery, and governance end to end.
 
 - **Digital lab transformation.** Modernising workflows through robotics,
   AI-powered automation, and predictive quality systems. The code is built
@@ -50,13 +50,13 @@ strategy, delivery, and governance end to end.
   Responsible AI: Identifying, Understanding, and Mitigating Risks* ·
   IAPP AI Governance Professional (AIGP) — in progress.
 - **Research Scientist & HPC System Administrator**, University of Alabama
-  (2011–2017) — ran the department's HPC cluster and chemical-inventory
+  — ran the department's HPC cluster and chemical-inventory
   LIMS; research in heterogeneous catalysis, carbon sequestration, and
   actinide/lanthanide chemistry at supercomputing scale.
-- **Postdoctoral Fellow**, Georgia Tech (2009–2010) — non-covalent
+- **Postdoctoral Fellow**, Georgia Tech — non-covalent
   interactions in biomolecular structure and drug docking with DFT and
   post-Hartree–Fock methods.
-- **Ph.D., Chemistry**, Mississippi State University (2008) ·
+- **Ph.D., Chemistry**, Mississippi State University ·
   **BSc, Chemistry**, University of Colombo.
 - 25+ peer-reviewed publications in computational chemistry and applied
   high-performance computing.
