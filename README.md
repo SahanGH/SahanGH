@@ -25,7 +25,7 @@ I lead the informatics backbone for Coca-Cola's global Technical,
 Innovation & Supply Chain QA/QC and R&D laboratories — LIMS strategy,
 delivery, and governance end to end.
 
-- **Digital lab transformation.** Modernising workflows through robotics,
+- **Digital lab transformation.** Modernizing workflows through robotics,
   AI-powered automation, and predictive quality systems. The code is built
   with agentic AI in a spec → plan → test → review loop.
 - **LIMS solution architecture and validation.** Requirements, design,
@@ -33,7 +33,7 @@ delivery, and governance end to end.
   frameworks; enterprise SME for master data governance, instrument
   integration, and audit readiness.
 - **Analytics.** Built and lead the LIMS Power BI reporting platform:
-  automated visualisation and real-time insight for QA/QC and R&D
+  automated visualization and real-time insight for QA/QC and R&D
   decision-makers.
 
 ## In the open
