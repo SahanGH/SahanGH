@@ -6,12 +6,12 @@ I architect, deliver, and govern LIMS platforms for QA/QC and R&D
 laboratories worldwide — and I have hands-on experience for all parts of
 both the laboratories and LIMS processes end-to-end.
 
+![SampleManager LIMS](https://img.shields.io/badge/SampleManager_LIMS-F2C811)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri_2-24C8D8?logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927)
-![SampleManager LIMS](https://img.shields.io/badge/SampleManager_LIMS-EE3124)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811)
 ![AWS](https://img.shields.io/badge/AWS-232F3E)
 ![Azure](https://img.shields.io/badge/Azure-0078D4)
